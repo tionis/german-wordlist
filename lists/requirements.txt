@@ -1,0 +1,9 @@
+ftfy==6.1.1
+langcodes==3.3.0
+msgpack==1.0.5
+phonetisch==0.2.2
+regex==2023.6.3
+silpa-common==0.3
+soundex==1.1.3
+wcwidth==0.2.6
+wordfreq==3.0.3
